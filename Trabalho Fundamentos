@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T19:00:18.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="AkMxAC6Bo1GLh8xxRysA" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T19:24:41.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="eoCOs1Vk9NaCqlaGpmkr" version="21.0.10" type="github">
   <diagram name="Página-1" id="sfsGVNH0QBEiWr6jJ4Q-">
-    <mxGraphModel dx="1500" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,8 +35,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2Dw3MeFeY_y2H5BirxiK-13" value="&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="110" width="210" height="110" as="geometry" />
+        <mxCell id="2Dw3MeFeY_y2H5BirxiK-13" value="&lt;h4&gt;Após pagar e agendar a prova,&amp;nbsp; o candidato deverá realizar a prova de legislação e terá como como minímo 21 pontos para que seja aprovado e autorizado para próxima fase. Caso não seja aprovado o candidato terá que realizar um novo agendamento, mediante o pagamento de novo Documento de Arrecadação Estadual.&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="110" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2Dw3MeFeY_y2H5BirxiK-14" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" target="2Dw3MeFeY_y2H5BirxiK-13">
           <mxGeometry width="100" relative="1" as="geometry">
@@ -45,6 +45,48 @@
             <Array as="points">
               <mxPoint x="810" y="400" />
               <mxPoint x="860" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Dw3MeFeY_y2H5BirxiK-15" value="&lt;h4&gt;Caso aprovado no exame de legislação o candidato deverá pagar uma taxa de Licença de Aprendizagem de Direção Veicular (LADV), logo após o pagamento o candidato irá começar suas aulas praticas de direção na rua. Tendo como necessario 20 horas/aula para que seja possível o agendamento do exame de direção.&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="390" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dw3MeFeY_y2H5BirxiK-16" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2Dw3MeFeY_y2H5BirxiK-15">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="1020" y="180" as="sourcePoint" />
+            <mxPoint x="1070" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1020" y="220" />
+              <mxPoint x="1070" y="220" />
+              <mxPoint x="1070" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Dw3MeFeY_y2H5BirxiK-17" value="&lt;h4&gt;Para agendar o exame pratico de direção é necessario que o candidato pague o DAE. O dia, horario e local são definidos pela Delegacia de Transito de cada cidade.&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="160" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dw3MeFeY_y2H5BirxiK-18" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2Dw3MeFeY_y2H5BirxiK-17">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="1370" y="460" as="sourcePoint" />
+            <mxPoint x="1420" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1370" y="500" />
+              <mxPoint x="1420" y="500" />
+              <mxPoint x="1420" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Dw3MeFeY_y2H5BirxiK-20" value="&lt;h4&gt;Caso o candidato seja aprovado, ele terá que acompanhar no site do Detran para poder ir buscar sua PPD. Caso o candidato reprove no exame, ele terá que realizar o pagamento de novo DAE e procurar o CFC para que seja agendado um novo exame.&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="420" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dw3MeFeY_y2H5BirxiK-21" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2Dw3MeFeY_y2H5BirxiK-20">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="1600" y="230" as="sourcePoint" />
+            <mxPoint x="1640" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1640" y="230" />
+              <mxPoint x="1640" y="270" />
+              <mxPoint x="1700" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
