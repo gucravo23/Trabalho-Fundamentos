@@ -1,1 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T18:16:42.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.0.10" etag="fLmrWlW0uoywwxhlX3ZS" type="github"><diagram name="Página-1" id="sfsGVNH0QBEiWr6jJ4Q-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-24T19:00:18.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="AkMxAC6Bo1GLh8xxRysA" version="21.0.10" type="github">
+  <diagram name="Página-1" id="sfsGVNH0QBEiWr6jJ4Q-">
+    <mxGraphModel dx="1500" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2Dw3MeFeY_y2H5BirxiK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.005;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2Dw3MeFeY_y2H5BirxiK-1" target="2Dw3MeFeY_y2H5BirxiK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dw3MeFeY_y2H5BirxiK-1" value="&lt;h4&gt;O candidato a CNH terá como&lt;br&gt;primeiro passo preencher o formulario e realizar o pagamento da taxa de inscrição. Tendo 1 ano como tempo maximo para finalizar o processo&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="220" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dw3MeFeY_y2H5BirxiK-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="250" as="sourcePoint" />
+            <mxPoint x="200" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Dw3MeFeY_y2H5BirxiK-6" value="&lt;h4&gt;Após o pagamento da taxa o candidato deverá agendar os exames psicologicos e medicos , sendo essa escolha aleatoria, o candidato nao pode escolher o local para realização dos exames. Se aprovado nos testes o individuo poderá escolher um CFC para inicializar as aulas de legislação.&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dw3MeFeY_y2H5BirxiK-8" value="&lt;h4&gt;Na terceira fase, o candidato começa a ter as aulas de legislação tendo como 45 horas necessarias de aula sobre o transito para o aluno poder realizar o pagamento e o agendamento do exame.&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="310" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dw3MeFeY_y2H5BirxiK-11" value="" style="edgeStyle=elbowEdgeStyle;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=-0.002;entryY=0.427;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="2Dw3MeFeY_y2H5BirxiK-8">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="500" y="160" as="sourcePoint" />
+            <mxPoint x="610" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="320" />
+              <mxPoint x="550" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Dw3MeFeY_y2H5BirxiK-13" value="&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="110" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dw3MeFeY_y2H5BirxiK-14" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" target="2Dw3MeFeY_y2H5BirxiK-13">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="810" y="360" as="sourcePoint" />
+            <mxPoint x="850" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="400" />
+              <mxPoint x="860" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
